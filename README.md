@@ -18,7 +18,7 @@ Dockerização: O projeto é totalmente dockerizado, permitindo fácil execuçã
 Clone o repositório para sua máquina local:
 
 
-git clone https://github.com/seu-usuario/gerenciamento-tarefas-api.git
+git clone https://github.com/Diego-Felix/gerenciamento-de-tarefas
 
 
 <h1>📝 Documentação Interativa (Swagger)</h1>
