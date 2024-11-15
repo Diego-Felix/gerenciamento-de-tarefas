@@ -1,0 +1,17 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar pastas do sistema ou IDEs
+.DS_Store
+.vscode/
+
+
+# Ignorar builds do Docker 
+docker-compose.override.yml
